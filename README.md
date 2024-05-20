@@ -1,2 +1,3 @@
-# Online_codingchallenges_solutions
-Hackerrank
+HackerRank Solution
+
+Contains solutions for HackerRank Problems for Python, SQL
